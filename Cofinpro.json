@@ -47,7 +47,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/teams.microsoft.com\/_#\/pre-join-calling\/19:meeting_Y2Y0NTFhNTQtZmFhMC00NzY4LTk4MzUtYjliNDY5ZTFkYmU1@thread.v2"
+                 "value":"https:\/\/palaver.visualvest.de\/GRAPPA"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -62,7 +62,7 @@
          "name":"Floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":25,
          "x":0,
          "y":0

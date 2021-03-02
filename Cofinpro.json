@@ -47,7 +47,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/teams.microsoft.com\/dl\/launcher\/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_Y2Y0NTFhNTQtZmFhMC00NzY4LTk4MzUtYjliNDY5ZTFkYmU1%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522a9f34dd0-8db9-40f4-8ff2-b68297720280%2522%252c%2522Oid%2522%253a%25222e7a4984-5b46-4a48-bf52-bee5213daf44%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=f7a3ace2-6030-4225-bb94-cb5284c7221f&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true"
+                 "value":"https:\/\/teams.microsoft.com\/_#\/pre-join-calling\/19:meeting_Y2Y0NTFhNTQtZmFhMC00NzY4LTk4MzUtYjliNDY5ZTFkYmU1@thread.v2"
                 }],
          "type":"tilelayer",
          "visible":true,

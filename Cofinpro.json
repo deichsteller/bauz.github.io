@@ -45,9 +45,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/palaver.visualvest.de\/GRAPPA"
+                 "value":"GRAPPA"
                 }],
          "type":"tilelayer",
          "visible":true,

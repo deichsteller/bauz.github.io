@@ -31,12 +31,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/6n7MvvdqpMU&autoplay=1"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                 "value":"https:\/\/soundcloud.com\/vgmc\/route-1-pokemon-red-blue-1998"
                 }],
          "type":"tilelayer",
          "visible":true,

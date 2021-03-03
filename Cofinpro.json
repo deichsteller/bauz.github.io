@@ -32,6 +32,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/palaver.visualvest.de\/GRAPPA"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"camera; microphone; fullscreen; display-capture"
                 }],
          "type":"tilelayer",
          "visible":true,
